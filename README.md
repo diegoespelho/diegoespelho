@@ -11,7 +11,7 @@ With 15 years of experience in the industrial sector as a CNC Turner, I bring a 
 Based in Campinas, Brazil, I am eager to continue learning and apply my skills in real-world scenarios, adding value to the technology sector.
 
 ## languages and tools.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,figma,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,figma)](https://skillicons.dev)
 
 ## learning.
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,dart)](https://skillicons.dev)
