@@ -17,7 +17,7 @@ Based in Campinas, Brazil, I am eager to continue learning and apply my skills i
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,dart)](https://skillicons.dev)
 
 ## stats.
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoespelho\&bg_color=5967F7\&show_icons=true\&title_color=fff\&text_color=fff)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoespelho\&bg_color=30,89E4D2,5967F7\&show_icons=true\&title_color=fff\&text_color=fff)
 
 ## contact me.
 <a href="https://www.linkedin.com/in/diegoespelho-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-5967F7?style=for-the-badge&logo=linkedin&logoColor=89E4D2" target="_blank"></a>
