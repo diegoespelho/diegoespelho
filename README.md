@@ -4,17 +4,17 @@
 
 > passion for learning. 🧠
 
-Currently pursuing a degree in Systems Analysis and Development at Uninter, I have cultivated a strong foundation in HTML, CSS, JavaScript, Git, GitHub, UI Design, Figma and Python. Throughout my studies, I have completed various projects that have not only deepened my technical skills but also fueled my passion for learning.
+Currently pursuing a degree in Systems Analysis and Development at Uninter, I have cultivated a strong foundation in HTML, CSS, JavaScript, TailwindCSS, Bootstrap, NodeJS, Python, Git, Github, UI Design and Figma. Throughout my studies, I have completed various projects that have not only deepened my technical skills but also fueled my passion for learning.
 
 With 15 years of experience in the industrial sector as a CNC Turner, I bring a disciplined, detail-oriented approach to my work. Now, I am fully dedicated to transitioning into the tech industry, where I can leverage my growing expertise and passion to contribute value to innovative teams.
 
 Based in Campinas, Brazil, I am eager to continue learning and apply my skills in real-world scenarios, adding value to the technology sector.
 
 ## languages and tools.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,python,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nodejs,python,git,github,figma)](https://skillicons.dev)
 
 ## learning.
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react)](https://skillicons.dev)
 
 ## stats.
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoespelho\&bg_color=30,89E4D2,5967F7\&show_icons=true\&title_color=fff\&text_color=fff)
