@@ -4,17 +4,17 @@
 
 > passion for learning. 🧠
 
-Currently pursuing a degree in Systems Analysis and Development at Uninter, I have cultivated a strong foundation in HTML, CSS, JavaScript, TailwindCSS, Bootstrap, NodeJS, Python, Git, Github, UI Design and Figma. Throughout my studies, I have completed various projects that have not only deepened my technical skills but also fueled my passion for learning.
+Currently pursuing a degree in Systems Analysis and Development at Uninter, I am focused on enhancing my expertise in Python, applying it in software development, automation, artificial intelligence, and data-related fields. In addition to Python, I have experience with HTML, CSS, JavaScript, TailwindCSS, Bootstrap, NodeJS, Git, GitHub, and UI Design, providing me with a diverse technical foundation.
 
-With 15 years of experience in the industrial sector as a CNC Turner, I bring a disciplined, detail-oriented approach to my work. Now, I am fully dedicated to transitioning into the tech industry, where I can leverage my growing expertise and passion to contribute value to innovative teams.
+Throughout my journey, I have developed various projects that have strengthened my problem-solving skills and reinforced my passion for continuous learning. My 15 years of experience as a CNC Turner in the industrial sector have helped me develop analytical thinking, precision, and attention to detail—skills that I now apply in software development.
 
-Based in Campinas, Brazil, I am eager to continue learning and apply my skills in real-world scenarios, adding value to the technology sector.
+Based in Campinas, Brazil, I am fully committed to transitioning into the tech industry and eager to apply my knowledge in real-world scenarios, adding value to innovative teams.
 
 ## languages and tools.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nodejs,python,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,tailwind,bootstrap,nodejs,git,github,figma)](https://skillicons.dev)
 
 ## learning.
-[![My Skills](https://skillicons.dev/icons?i=typescript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## stats.
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoespelho\&bg_color=30,89E4D2,5967F7\&show_icons=true\&title_color=fff\&text_color=fff)
