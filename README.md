@@ -14,7 +14,7 @@ Based in Campinas, Brazil, I am fully committed to transitioning into the tech i
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,tailwind,bootstrap,nodejs,git,github,figma)](https://skillicons.dev)
 
 ## learning.
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pandas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,huggingface,pytorch)](https://skillicons.dev)
 
 ## stats.
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoespelho\&bg_color=30,89E4D2,5967F7\&show_icons=true\&title_color=fff\&text_color=fff)
